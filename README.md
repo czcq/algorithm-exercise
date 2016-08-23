@@ -1,2 +1,2 @@
 # algorithm-exercise
-# This repositories is used to study algorithm.
+Note:This repository is used to study algorithm.
